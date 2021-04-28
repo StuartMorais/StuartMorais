@@ -2,7 +2,7 @@
 ![](https://lh3.googleusercontent.com/proxy/VOeZ6Y2lNZ0LaqWjtzwUhwq70_X80YgTI2y-_6o3ZLohWAK-IpZjbfvySckFfyxoXrMFb64uaieyvtMY7veSmn_mGz_2hyxgU8dunIQ3dGAPtLwoQrSVmSIM7bERgDmE5EJnb1vvqD4Znckr-C2VqF3q2gtXAOh2e9315e6L)
 
 
-:alien: Tecnologias: Linguagens | HTML | CSS | Java | C | C++ | Python |;
+:alien: Linguagens: | HTML | CSS | Java | C | C++ | Python |;
 
 :rocket: Fortemente engajado em Back-end estou em busca da proimeira oportunidade;
 
