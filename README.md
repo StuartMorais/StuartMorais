@@ -1,5 +1,5 @@
 ### OPA!!! Prazer, meu nome é Stuart Nascimento de Morais sou um estudante de CC, gosto muito de Back-end👍
-![](https://lh3.googleusercontent.com/proxy/VOeZ6Y2lNZ0LaqWjtzwUhwq70_X80YgTI2y-_6o3ZLohWAK-IpZjbfvySckFfyxoXrMFb64uaieyvtMY7veSmn_mGz_2hyxgU8dunIQ3dGAPtLwoQrSVmSIM7bERgDmE5EJnb1vvqD4Znckr-C2VqF3q2gtXAOh2e9315e6L)
+![](https://media1.tenor.com/images/a555e79e3f2e93d7719348f569ecc6c6/tenor.gif?itemid=4712732)
 
 
 :alien: Linguagens: | HTML | CSS | Java | C | C++ | Python |;
