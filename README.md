@@ -1,4 +1,4 @@
-### OPA!!! Prazer, meu nome é Stuart Nascimento de Morais sou um estudante de CC, gosto muito de Back-end👍
+### OPA!!! Prazer, meu nome é Stuart Nascimento de Morais sou um estudante de CC, gosto muito de Back-end e Front-end👍
 ![](https://media1.tenor.com/images/a555e79e3f2e93d7719348f569ecc6c6/tenor.gif?itemid=4712732)
 
 
