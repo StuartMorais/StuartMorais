@@ -10,7 +10,7 @@
 
 :grey_question: About me: Cafezeiro profissional, só durmo quando as metas do dia estão concluidas, planejo fazer gastronomia e sou apaixonado por jogos eletronicos;
 
-:mailbox: Qualquer coisa só me chamar no Email;
+:mailbox: Qualquer coisa só me chamar no Email ou Linkedin;
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/stuartmorais)](https://www.linkedin.com/in/stuartmorais)
