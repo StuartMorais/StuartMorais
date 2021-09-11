@@ -1,6 +1,9 @@
 ### OPA!!! Prazer, meu nome é Stuart Nascimento de Morais sou um estudante de CC, gosto muito de Back-end e Front-end👍
 ![](https://media1.tenor.com/images/a555e79e3f2e93d7719348f569ecc6c6/tenor.gif?itemid=4712732)
 
+![Stuart GitHub stats](https://github-readme-stats.vercel.app/api?username=StuartMorais&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuartMorais&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 :alien: Linguagens: | HTML | CSS | Java | C | C++ | Python |;
 
