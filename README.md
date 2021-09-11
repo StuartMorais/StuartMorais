@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuartMorais&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-:alien: Linguagens: | HTML | CSS | Java | C | C++ | Python |;
+:alien: Linguagens: | HTML | CSS | Java | C | C++ | Python | JavaScript |;
 
 :rocket: Fortemente engajado em Back-end estou em busca da proimeira oportunidade;
 
