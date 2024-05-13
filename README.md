@@ -5,11 +5,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuartMorais&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-:alien: Linguagens: | MySQL | HTML | CSS | Java | C | C++ | Python | JavaScript |;
+:alien: Linguagens: | MySQL | HTML | CSS | JavaScript | C | C++ | Python | JavaScript |;
 
-:rocket: Fortemente engajado em Back-end estou em busca da proimeira oportunidade;
+:rocket: Fortemente engajado em desenvolvimento web estou em busca da proimeira oportunidade;
 
-:books: Atualmente tenho me dedicado aos estudos mais avançados de Java e POO;
+:books: Atualmente tenho me dedicado aos estudos mais avançados de desenvolvimento web focado no front-end;
 
 :grey_question: About me: Cafezeiro profissional, só durmo quando as metas do dia estão concluidas, planejo fazer gastronomia e sou apaixonado por jogos eletronicos;
 
