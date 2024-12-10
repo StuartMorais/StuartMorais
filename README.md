@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StuartMorais&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-:alien: Linguagens: | MySQL | HTML | CSS | JavaScript | C | C++ | Python | TypeScript |
+:alien: Linguagens: | MySQL | HTML | CSS | JavaScript | C | C++ | Python | TypeScript | Git |
 
 :rocket: Fortemente engajado em desenvolvimento web estou em busca da proimeira oportunidade;
 
